@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-for-beginners/static/js/main.951ab07a.js",
-    "index.html": "/react-for-beginners/index.html",
-    "main.951ab07a.js.map": "/react-for-beginners/static/js/main.951ab07a.js.map"
+    "main.js": "/Movie_app_2022.git/static/js/main.951ab07a.js",
+    "index.html": "/Movie_app_2022.git/index.html",
+    "main.951ab07a.js.map": "/Movie_app_2022.git/static/js/main.951ab07a.js.map"
   },
   "entrypoints": [
     "static/js/main.951ab07a.js"
